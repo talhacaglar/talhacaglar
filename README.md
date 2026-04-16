@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/banner.svg" alt="Talha Caglar banner" width="100%" />
+
 # Talha Çağlar
 
 ### Cybersecurity, Linux workflows, and practical developer tooling

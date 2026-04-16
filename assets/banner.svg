@@ -1,0 +1,78 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Talha Caglar Banner</title>
+  <desc id="desc">Cybersecurity, Linux, automation, and developer tooling banner.</desc>
+  <defs>
+    <linearGradient id="bg" x1="90" y1="40" x2="1170" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111F"/>
+      <stop offset="0.55" stop-color="#0B1728"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="205" y1="74" x2="1080" y2="295" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.45" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="line" x1="1015" y1="70" x2="1130" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <filter id="shadow" x="-40" y="-40" width="1360" height="440" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="18" stdDeviation="28" flood-color="#020617" flood-opacity="0.35"/>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#grid)"/>
+
+  <circle cx="1085" cy="80" r="170" fill="#38BDF8" fill-opacity="0.08"/>
+  <circle cx="1180" cy="260" r="150" fill="#22C55E" fill-opacity="0.08"/>
+  <circle cx="940" cy="290" r="120" fill="#F59E0B" fill-opacity="0.06"/>
+
+  <g filter="url(#shadow)">
+    <rect x="54" y="52" width="1172" height="256" rx="24" fill="#0B1220" fill-opacity="0.76" stroke="#334155" stroke-opacity="0.55"/>
+    <rect x="54" y="52" width="1172" height="44" rx="24" fill="#020617" fill-opacity="0.78"/>
+    <circle cx="84" cy="74" r="5" fill="#F87171"/>
+    <circle cx="104" cy="74" r="5" fill="#FBBF24"/>
+    <circle cx="124" cy="74" r="5" fill="#34D399"/>
+    <text x="154" y="79" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">talha@github:~</text>
+
+    <text x="88" y="148" fill="#E2E8F0" font-family="ui-sans-serif, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700">Talha Caglar</text>
+    <text x="88" y="186" fill="#38BDF8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18">$ security-minded builder</text>
+
+    <text x="88" y="232" fill="#CBD5E1" font-family="ui-sans-serif, Segoe UI, Helvetica, Arial, sans-serif" font-size="20">
+      Cybersecurity • Linux • Automation • Developer Tooling
+    </text>
+    <text x="88" y="266" fill="#94A3B8" font-family="ui-sans-serif, Segoe UI, Helvetica, Arial, sans-serif" font-size="16">
+      Building practical projects, refining workflows, and learning through real systems.
+    </text>
+
+    <rect x="88" y="286" width="178" height="20" rx="10" fill="#0F172A" stroke="#1E293B"/>
+    <rect x="278" y="286" width="108" height="20" rx="10" fill="#0F172A" stroke="#1E293B"/>
+    <rect x="398" y="286" width="132" height="20" rx="10" fill="#0F172A" stroke="#1E293B"/>
+    <text x="104" y="300" fill="#A5F3FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">python</text>
+    <text x="168" y="300" fill="#86EFAC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">linux</text>
+    <text x="296" y="300" fill="#FDE68A" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">tui</text>
+    <text x="418" y="300" fill="#93C5FD" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">automation</text>
+  </g>
+
+  <g opacity="0.92">
+    <path d="M1005 110L1058 160L1114 103" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1048 196L1092 196" stroke="#F59E0B" stroke-width="4" stroke-linecap="round"/>
+    <path d="M1032 226H1128" stroke="#334155" stroke-width="2" stroke-linecap="round"/>
+    <path d="M1032 246H1102" stroke="#334155" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="1002" cy="110" r="8" fill="#22C55E"/>
+    <circle cx="1058" cy="160" r="8" fill="#38BDF8"/>
+    <circle cx="1114" cy="103" r="8" fill="#F59E0B"/>
+    <rect x="952" y="86" width="212" height="186" rx="20" fill="#0F172A" fill-opacity="0.78" stroke="#1E293B"/>
+    <text x="979" y="134" fill="#E2E8F0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16">focus areas</text>
+    <text x="979" y="168" fill="#A5F3FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">01  cybersecurity</text>
+    <text x="979" y="194" fill="#86EFAC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">02  linux systems</text>
+    <text x="979" y="220" fill="#FDE68A" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">03  automation</text>
+    <text x="979" y="246" fill="#93C5FD" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">04  developer tools</text>
+  </g>
+
+  <rect x="54.5" y="52.5" width="1171" height="255" rx="23.5" stroke="url(#accent)" stroke-opacity="0.15"/>
+</svg>
