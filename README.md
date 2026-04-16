@@ -65,3 +65,4 @@ Focus       Cybersecurity, Linux, automation, developer tools
 ## Find Me Here
 
 - GitHub: [@talhacaglar](https://github.com/talhacaglar)
+- LinkedIn: [talhacaglar1](https://www.linkedin.com/in/talhacaglar1/)
