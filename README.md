@@ -2,39 +2,37 @@
 
 # Talha Caglar
 
-### Terminal-first tools, Linux workflows, and polished developer experiences
+### Cybersecurity, Linux workflows, and practical developer tooling
 
 [![GitHub followers](https://img.shields.io/github/followers/talhacaglar?style=for-the-badge&logo=github&label=Followers)](https://github.com/talhacaglar)
 [![Profile views](https://komarev.com/ghpvc/?username=talhacaglar&style=for-the-badge&color=111827)](https://github.com/talhacaglar)
-[![Clar Focus](https://img.shields.io/badge/Current%20Project-Clar%20Focus-111827?style=for-the-badge)](https://github.com/talhacaglar/Clar-Focus)
-
 </div>
 
-I build software around productivity, Linux customization, and keyboard-driven workflows.
-Most of what I enjoy building lives at the intersection of terminal UX, automation, and tools that feel clean enough to use every day.
+I work mostly around cybersecurity, Linux, automation, and practical software projects.
+I enjoy building tools, experimenting with systems, and improving workflows that are clean, fast, and useful in real environments.
 
 ## About Me
 
-- I like building developer tools with clear structure and practical value.
-- I care about local-first workflows, strong UX, and lightweight systems.
-- I enjoy designing interfaces that feel intentional rather than overloaded.
-- I spend a lot of time around Linux, Hyprland, Waybar, terminal tooling, and automation.
+- I spend most of my time learning and building around cybersecurity.
+- I work a lot with Linux, terminal tooling, automation, and system-level workflows.
+- I like projects that are hands-on, practical, and technically clean.
+- I enjoy exploring both software development and security-oriented experimentation.
 
 ## Current Focus
 
-- Building [**Clar Focus**](https://github.com/talhacaglar/Clar-Focus), a terminal-first productivity suite for Linux.
-- Exploring polished TUI experiences with **Python** and **Textual**.
-- Improving personal workflow tooling for **Wayland / Hyprland / Waybar** setups.
-- Creating software that feels fast, structured, and premium without becoming bloated.
+- Learning more deeply about cybersecurity and security-focused development.
+- Building practical projects across Linux, automation, and developer tooling.
+- Exploring system workflows around **Wayland / Hyprland / Waybar**.
+- Improving my engineering skills through real projects rather than isolated demos.
 
 ## Featured Projects
 
 | Project | Summary |
 | --- | --- |
-| [**Clar Focus**](https://github.com/talhacaglar/Clar-Focus) | Terminal-based task manager, pomodoro engine, focus mode, and Waybar integration for Linux workflows. |
 | [**Lexis**](https://github.com/talhacaglar/Lexis) | AI-supported, modern, and personalized dictionary application. |
 | [**hyprland-keybinds**](https://github.com/talhacaglar/hyprland-keybinds) | My personal Hyprland keybinding setup and workflow notes. |
 | [**Clar Corp Security Lab**](https://github.com/talhacaglar/Clar-Corp-Security-Lab) | Security-oriented experiments, notes, and lab-style development work. |
+| [**Clar Focus**](https://github.com/talhacaglar/Clar-Focus) | A Linux-focused productivity and workflow project built around terminal-based usage. |
 
 ## Toolbox
 
@@ -43,7 +41,7 @@ Languages   Python, Dart, JavaScript, SQL
 UI / TUI    Textual, Flutter
 Platform    Linux, Arch, Wayland, Hyprland, Waybar
 Storage     SQLite
-Focus       Productivity tools, automation, terminal UX
+Focus       Cybersecurity, Linux, automation, developer tools
 ```
 
 ## GitHub Snapshot
@@ -57,12 +55,11 @@ Focus       Productivity tools, automation, terminal UX
 
 ## Principles
 
-- Build tools you actually want to open every day.
-- Keep interfaces intentional, not noisy.
-- Prefer fast, local, understandable systems.
-- Make aesthetics support usability, not fight it.
+- Keep learning by building real things.
+- Prefer practical systems over unnecessary complexity.
+- Stay curious about security, Linux, and low-level behavior.
+- Make tools understandable, useful, and clean.
 
 ## Find Me Here
 
 - GitHub: [@talhacaglar](https://github.com/talhacaglar)
-
