@@ -1,6 +1,6 @@
 <div align="center">
 
-# Talha Caglar
+# Talha Çağlar
 
 ### Cybersecurity, Linux workflows, and practical developer tooling
 
