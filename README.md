@@ -1,56 +1,74 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Talha Çağlar" width="100%" />
+<img src="./assets/header.svg" alt="Talha Çağlar" width="100%" />
+
+<br/><br/>
+
+I work in the space between security and systems — Linux tooling, automation,<br/>
+and software that stays clean under real use.
+
+<br/>
+
+<img src="./assets/rule.svg" alt="" width="72%" />
+
+<h3>S E L E C T E D &nbsp; W O R K</h3>
+
+<img src="./assets/work.svg" alt="Selected work" width="94%" />
+
+<sub>Also: <a href="https://github.com/talhacaglar/hyprland-keybinds">hyprland-keybinds</a> · <a href="https://github.com/talhacaglar/archsweep">archsweep</a> · <a href="https://github.com/talhacaglar/TarlamCebimde">TarlamCebimde</a></sub>
+
+<br/><br/>
+
+<img src="./assets/rule.svg" alt="" width="72%" />
+
+<h3>C R A F T</h3>
 
 </div>
 
-<br/>
-
-I build in the space between security and systems — Linux tooling, automation, and software that stays clean under real use.
-
-<br/>
-
-### Work
+<div align="center">
 
 | | |
-| --- | --- |
-| [**Lexis**](https://github.com/talhacaglar/Lexis) | AI-supported, personalized dictionary application. |
-| [**printhub**](https://github.com/talhacaglar/printhub) | Network printer management — toner cost, stock, Active Directory, ISO 27001. |
-| [**Clar Corp Security Lab**](https://github.com/talhacaglar/Clar-Corp-Security-Lab) | Security experiments, notes, and lab-style development. |
-| [**Clar Focus**](https://github.com/talhacaglar/Clar-Focus) | Terminal-native productivity tooling for Linux. |
-| [**hyprland-keybinds**](https://github.com/talhacaglar/hyprland-keybinds) | Personal Hyprland keybinding setup and workflow notes. |
-
-<br/>
-
-### Craft
-
-```
-Languages    Python · Dart · JavaScript · Java · SQL
-Interfaces   Textual · Flutter · Electron
-Systems      Linux · Arch · Wayland · Hyprland
-Data         SQLite · Firebase
-Focus        Security · Automation · Developer tooling
-```
-
-<br/>
-
-### Approach
-
-Learn by building real things. Prefer restraint over complexity. Stay close to the system.
-
-<br/>
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=talhacaglar&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&bg_color=00000000&title_color=C8A96A&text_color=9A9A9F&icon_color=C8A96A" alt="GitHub statistics" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhacaglar&layout=compact&hide_title=true&hide_border=true&langs_count=6&bg_color=00000000&title_color=C8A96A&text_color=9A9A9F" alt="Languages" />
+| --: | :-- |
+| **Languages** | Python · Dart · JavaScript · Java · SQL |
+| **Interfaces** | Textual · Flutter · Electron |
+| **Systems** | Linux · Arch · Wayland · Hyprland |
+| **Data** | SQLite · Firebase |
+| **Focus** | Security · Automation · Developer tooling |
 
 </div>
 
-<br/>
-
 <div align="center">
 
-[GitHub](https://github.com/talhacaglar) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/talhacaglar1/) &nbsp;·&nbsp; [Telegram](https://t.me/Cgllar)
+<br/>
+
+<img src="./assets/rule.svg" alt="" width="72%" />
+
+<h3>R E C O R D</h3>
+
+<img src="./assets/record.svg" alt="GitHub record" width="94%" />
+
+<br/><br/>
+
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=talhacaglar&bg_color=0D0D0F&color=9A9A9F&line=C8A96A&point=F6E9C9&area_color=C8A96A&area=true&hide_border=true&custom_title=Contribution%20Activity&title_color=C8A96A" alt="Contribution activity" />
+
+<br/><br/>
+
+<img src="./assets/rule.svg" alt="" width="72%" />
+
+<h3>A P P R O A C H</h3>
+
+Learn by building real things.<br/>
+Prefer restraint over complexity.<br/>
+Stay close to the system.
+
+<br/>
+
+<img src="./assets/rule.svg" alt="" width="72%" />
+
+<br/>
+
+<a href="https://github.com/talhacaglar">GitHub</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/talhacaglar1/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://t.me/Cgllar">Telegram</a>
 
 </div>
