@@ -12,7 +12,7 @@
   </g>
   <rect x="360" y="46" width="1" height="60" fill="#2A2A2E"/>
   <g text-anchor="middle">
-    <text x="460" y="74" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="34" fill="#EDEAE3">4</text>
+    <text x="460" y="74" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="34" fill="#EDEAE3">5</text>
     <text x="460" y="98" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="10" letter-spacing="2.4" fill="#5C5C62">FOLLOWERS</text>
   </g>
   <rect x="560" y="46" width="1" height="60" fill="#2A2A2E"/>
@@ -22,11 +22,11 @@
   </g>
   <text x="60" y="136" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="10" letter-spacing="2.4" fill="#5C5C62">LANGUAGE MIX &#183; WEIGHTED BY REPOSITORY</text>
   <rect x="60" y="146" width="780" height="9" rx="4" fill="#16161A"/>
-  <rect x="60.0" y="146" width="305.5" height="9" fill="#3572A5"/>
-  <rect x="365.5" y="146" width="170.9" height="9" fill="#89E051"/>
-  <rect x="536.4" y="146" width="95.9" height="9" fill="#563D7C"/>
-  <rect x="632.3" y="146" width="79.6" height="9" fill="#B07219"/>
-  <rect x="712.0" y="146" width="68.3" height="9" fill="#B845FC"/>
+  <rect x="60.0" y="146" width="305.6" height="9" fill="#3572A5"/>
+  <rect x="365.6" y="146" width="170.9" height="9" fill="#89E051"/>
+  <rect x="536.5" y="146" width="95.7" height="9" fill="#563D7C"/>
+  <rect x="632.3" y="146" width="79.7" height="9" fill="#B07219"/>
+  <rect x="711.9" y="146" width="68.3" height="9" fill="#B845FC"/>
   <rect x="780.3" y="146" width="59.7" height="9" fill="#222C37"/>
   <g>
     <circle cx="60" cy="186" r="4.5" fill="#3572A5"/>
@@ -41,7 +41,7 @@
   <g>
     <circle cx="600" cy="186" r="4.5" fill="#563D7C"/>
     <text x="613" y="190" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#9A9A9F">CSS</text>
-    <text x="840" y="190" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#5C5C62">11.0%</text>
+    <text x="840" y="190" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#5C5C62">10.9%</text>
   </g>
   <g>
     <circle cx="60" cy="212" r="4.5" fill="#B07219"/>
