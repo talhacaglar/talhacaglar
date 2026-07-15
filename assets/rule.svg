@@ -1,14 +1,21 @@
 <svg width="900" height="18" viewBox="0 0 900 18" fill="none" xmlns="http://www.w3.org/2000/svg" role="presentation">
   <defs>
     <linearGradient id="r" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#C8A96A" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#C8A96A" stop-opacity="0.55"/>
-      <stop offset="1" stop-color="#C8A96A" stop-opacity="0"/>
+      <stop offset="0" stop-color="#7D9D7F" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#7D9D7F" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#7D9D7F" stop-opacity="0"/>
     </linearGradient>
+    <style>
+      .breathe { animation: breathe 8s ease-in-out infinite; }
+      .breathe-soft { animation: breathe-soft 8s ease-in-out infinite; }
+      @keyframes breathe { 0%, 100% { opacity: 0.72; } 50% { opacity: 1; } }
+      @keyframes breathe-soft { 0%, 100% { opacity: 0.40; } 50% { opacity: 0.70; } }
+      @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+    </style>
   </defs>
   <rect x="0" y="8.6" width="380" height="0.8" fill="url(#r)"/>
   <rect x="520" y="8.6" width="380" height="0.8" fill="url(#r)"/>
-  <path d="M450 3.5 l5.5 5.5 -5.5 5.5 -5.5 -5.5 z" fill="#C8A96A" fill-opacity="0.75"/>
-  <circle cx="424" cy="9" r="1.4" fill="#C8A96A" fill-opacity="0.45"/>
-  <circle cx="476" cy="9" r="1.4" fill="#C8A96A" fill-opacity="0.45"/>
+  <path class="breathe" d="M450 3.5 l5.5 5.5 -5.5 5.5 -5.5 -5.5 z" fill="#7D9D7F" opacity="0.9"/>
+  <circle class="breathe-soft" cx="424" cy="9" r="1.4" fill="#7D9D7F" opacity="0.55"/>
+  <circle class="breathe-soft" cx="476" cy="9" r="1.4" fill="#7D9D7F" opacity="0.55"/>
 </svg>

@@ -1,8 +1,37 @@
 <svg width="900" height="320" viewBox="0 0 900 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Selected work">
+  <defs>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#A8C4AA" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#A8C4AA" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#A8C4AA" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="bar1"><rect x="8" y="6" width="3" height="140" rx="1.5"/></clipPath>
+    <clipPath id="bar2"><rect x="460" y="6" width="3" height="140" rx="1.5"/></clipPath>
+    <clipPath id="bar3"><rect x="8" y="174" width="3" height="140" rx="1.5"/></clipPath>
+    <clipPath id="bar4"><rect x="460" y="174" width="3" height="140" rx="1.5"/></clipPath>
+    <style>
+      .scan { opacity: 0; animation: scan 9s ease-in-out infinite; }
+      .d1 { animation-delay: 0s; }
+      .d2 { animation-delay: 0.7s; }
+      .d3 { animation-delay: 1.4s; }
+      .d4 { animation-delay: 2.1s; }
+      @keyframes scan {
+        0%        { transform: translateY(-52px); opacity: 0; }
+        8%        { opacity: 1; }
+        50%       { transform: translateY(140px); opacity: 1; }
+        58%, 100% { transform: translateY(140px); opacity: 0; }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .scan { animation: none !important; opacity: 0 !important; }
+      }
+    </style>
+  </defs>
+
   <g>
     <rect x="8" y="6" width="424" height="140" rx="4" fill="#0D0D0F" stroke="#2A2A2E"/>
-    <rect x="8" y="6" width="3" height="140" rx="1.5" fill="#C8A96A" fill-opacity="0.55"/>
-    <text x="30" y="44" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="19" letter-spacing="1.6" fill="#C8A96A">Lexis</text>
+    <rect x="8" y="6" width="3" height="140" rx="1.5" fill="#7D9D7F" fill-opacity="0.55"/>
+    <g clip-path="url(#bar1)"><rect class="scan d1" opacity="0" x="8" y="6" width="3" height="52" fill="url(#scan)"/></g>
+    <text x="30" y="44" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="19" letter-spacing="1.6" fill="#7D9D7F">Lexis</text>
     <text x="30" y="74" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9A9A9F"><tspan x="30" dy="0">AI-supported, personalized dictionary application.</tspan></text>
     <circle cx="33" cy="124" r="4.5" fill="#3572A5"/>
     <text x="45" y="128" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#5C5C62">Python</text>
@@ -10,8 +39,9 @@
   </g>
   <g>
     <rect x="460" y="6" width="424" height="140" rx="4" fill="#0D0D0F" stroke="#2A2A2E"/>
-    <rect x="460" y="6" width="3" height="140" rx="1.5" fill="#C8A96A" fill-opacity="0.55"/>
-    <text x="482" y="44" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="19" letter-spacing="1.6" fill="#C8A96A">printhub</text>
+    <rect x="460" y="6" width="3" height="140" rx="1.5" fill="#7D9D7F" fill-opacity="0.55"/>
+    <g clip-path="url(#bar2)"><rect class="scan d2" opacity="0" x="460" y="6" width="3" height="52" fill="url(#scan)"/></g>
+    <text x="482" y="44" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="19" letter-spacing="1.6" fill="#7D9D7F">printhub</text>
     <text x="482" y="74" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9A9A9F"><tspan x="482" dy="0">Printer fleet management: toner cost, stock,</tspan><tspan x="482" dy="18">Active Directory, ISO 27001.</tspan></text>
     <circle cx="485" cy="124" r="4.5" fill="#F1E05A"/>
     <text x="497" y="128" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#5C5C62">JavaScript</text>
@@ -19,8 +49,9 @@
   </g>
   <g>
     <rect x="8" y="174" width="424" height="140" rx="4" fill="#0D0D0F" stroke="#2A2A2E"/>
-    <rect x="8" y="174" width="3" height="140" rx="1.5" fill="#C8A96A" fill-opacity="0.55"/>
-    <text x="30" y="212" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="19" letter-spacing="1.6" fill="#C8A96A">Clar-Corp-Security-Lab</text>
+    <rect x="8" y="174" width="3" height="140" rx="1.5" fill="#7D9D7F" fill-opacity="0.55"/>
+    <g clip-path="url(#bar3)"><rect class="scan d3" opacity="0" x="8" y="174" width="3" height="52" fill="url(#scan)"/></g>
+    <text x="30" y="212" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="19" letter-spacing="1.6" fill="#7D9D7F">Clar-Corp-Security-Lab</text>
     <text x="30" y="242" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9A9A9F"><tspan x="30" dy="0">Security experiments, notes, and</tspan><tspan x="30" dy="18">lab-style development.</tspan></text>
     <circle cx="33" cy="292" r="4.5" fill="#3572A5"/>
     <text x="45" y="296" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#5C5C62">Python</text>
@@ -28,8 +59,9 @@
   </g>
   <g>
     <rect x="460" y="174" width="424" height="140" rx="4" fill="#0D0D0F" stroke="#2A2A2E"/>
-    <rect x="460" y="174" width="3" height="140" rx="1.5" fill="#C8A96A" fill-opacity="0.55"/>
-    <text x="482" y="212" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="19" letter-spacing="1.6" fill="#C8A96A">Clar-Focus</text>
+    <rect x="460" y="174" width="3" height="140" rx="1.5" fill="#7D9D7F" fill-opacity="0.55"/>
+    <g clip-path="url(#bar4)"><rect class="scan d4" opacity="0" x="460" y="174" width="3" height="52" fill="url(#scan)"/></g>
+    <text x="482" y="212" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="19" letter-spacing="1.6" fill="#7D9D7F">Clar-Focus</text>
     <text x="482" y="242" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="#9A9A9F"><tspan x="482" dy="0">Terminal-native productivity tooling</tspan><tspan x="482" dy="18">for Linux.</tspan></text>
     <circle cx="485" cy="292" r="4.5" fill="#3572A5"/>
     <text x="497" y="296" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="#5C5C62">Python</text>

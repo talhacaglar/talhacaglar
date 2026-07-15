@@ -49,7 +49,7 @@ and software that stays clean under real use.
 
 <br/><br/>
 
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=talhacaglar&bg_color=0D0D0F&color=9A9A9F&line=C8A96A&point=F6E9C9&area_color=C8A96A&area=true&hide_border=true&custom_title=Contribution%20Activity&title_color=C8A96A" alt="Contribution activity" />
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=talhacaglar&bg_color=0D0D0F&color=9A9A9F&line=7D9D7F&point=A8C4AA&area_color=7D9D7F&area=true&hide_border=true&custom_title=Contribution%20Activity&title_color=7D9D7F" alt="Contribution activity" />
 
 <br/><br/>
 
