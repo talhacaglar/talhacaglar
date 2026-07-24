@@ -18,13 +18,14 @@ BLURBS = {
     "Clar-Focus": "Terminal-native productivity tooling\nfor Linux.",
 }
 
-GOLD = "#C8A96A"
-GOLD_SOFT = "#8C7647"
-INK = "#EDEAE3"
-MUTED = "#9A9A9F"
-FAINT = "#5C5C62"
-CARD = "#0D0D0F"
-LINE = "#2A2A2E"
+BLUE = "#A6AFCC"
+BLUE_SOFT = "#7C859E"
+BROWN = "#B08D6A"
+INK = "#EAEBF0"
+MUTED = "#9A9EB0"
+FAINT = "#5E6270"
+CARD = "#14151A"
+LINE = "#2A2C33"
 
 LANG_COLORS = {
     "Python": "#3572A5",
@@ -107,7 +108,7 @@ def work_card(by_name):
         y = 6 + (i // 2) * gap_y
         stars = repo.get("stargazers_count", 0)
         lang = repo.get("language") or "—"
-        dot = LANG_COLORS.get(lang, GOLD_SOFT)
+        dot = LANG_COLORS.get(lang, BROWN)
         blurb = BLURBS.get(name, "")
 
         lines = "".join(
@@ -117,8 +118,8 @@ def work_card(by_name):
 
         out.append(f'''  <g>
     <rect x="{x}" y="{y}" width="{cw}" height="{ch}" rx="4" fill="{CARD}" stroke="{LINE}"/>
-    <rect x="{x}" y="{y}" width="3" height="{ch}" rx="1.5" fill="{GOLD}" fill-opacity="0.55"/>
-    <text x="{x + 22}" y="{y + 38}" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="19" letter-spacing="1.6" fill="{GOLD}">{esc(name)}</text>
+    <rect x="{x}" y="{y}" width="3" height="{ch}" rx="1.5" fill="{BROWN}" fill-opacity="0.7"/>
+    <text x="{x + 22}" y="{y + 38}" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="19" letter-spacing="1.6" fill="{BLUE}">{esc(name)}</text>
     <text x="{x + 22}" y="{y + 68}" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="{MUTED}">{lines}</text>
     <circle cx="{x + 25}" cy="{y + ch - 22}" r="4.5" fill="{dot}"/>
     <text x="{x + 37}" y="{y + ch - 18}" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="{FAINT}">{esc(lang)}</text>
@@ -163,7 +164,7 @@ def record_card(user, own, stars, lang_bytes):
     for i, (lang, size) in enumerate(top):
         frac = size / shown
         seg = bw * frac
-        color = LANG_COLORS.get(lang, GOLD_SOFT)
+        color = LANG_COLORS.get(lang, BROWN)
         r_left = "4" if i == 0 else "0"
         bar.append(
             f'  <rect x="{cursor:.1f}" y="146" width="{seg:.1f}" height="9" fill="{color}"/>'
@@ -181,7 +182,7 @@ def record_card(user, own, stars, lang_bytes):
 
     return f'''<svg width="{W}" height="{H}" viewBox="0 0 {W} {H}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub record">
   <rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="4" fill="{CARD}" stroke="{LINE}"/>
-  <rect x="0" y="0" width="{W}" height="2" rx="1" fill="{GOLD}" fill-opacity="0.5"/>
+  <rect x="0" y="0" width="{W}" height="2" rx="1" fill="{BROWN}" fill-opacity="0.6"/>
 {chr(10).join(out)}
   <text x="{bx}" y="136" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="10" letter-spacing="2.4" fill="{FAINT}">LANGUAGE MIX &#183; WEIGHTED BY REPOSITORY</text>
   <rect x="{bx}" y="146" width="{bw}" height="9" rx="4" fill="#16161A"/>

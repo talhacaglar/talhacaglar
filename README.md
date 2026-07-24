@@ -5,11 +5,12 @@
 <br/><br/>
 
 I work in the space between security and systems — Linux tooling, automation,<br/>
-and software that stays clean under real use.
+and software that stays clean under real use. I learn by building real things<br/>
+and prefer restraint over complexity.
 
 <br/>
 
-<img src="./assets/rule.svg" alt="" width="72%" />
+<img src="./assets/rule.svg" alt="" width="66%" />
 
 <h3>S E L E C T E D &nbsp; W O R K</h3>
 
@@ -19,51 +20,19 @@ and software that stays clean under real use.
 
 <br/><br/>
 
-<img src="./assets/rule.svg" alt="" width="72%" />
+<img src="./assets/rule.svg" alt="" width="66%" />
 
-<h3>C R A F T</h3>
-
-</div>
-
-<div align="center">
-
-| | |
-| --: | :-- |
-| **Languages** | Python · Dart · JavaScript · Java · SQL |
-| **Interfaces** | Textual · Flutter · Electron |
-| **Systems** | Linux · Arch · Wayland · Hyprland |
-| **Data** | SQLite · Firebase |
-| **Focus** | Security · Automation · Developer tooling |
-
-</div>
-
-<div align="center">
-
-<br/>
-
-<img src="./assets/rule.svg" alt="" width="72%" />
-
-<h3>R E C O R D</h3>
+<h3>S I G N A L S</h3>
 
 <img src="./assets/record.svg" alt="GitHub record" width="94%" />
 
-<br/><br/>
-
-<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=talhacaglar&bg_color=0D0D0F&color=9A9A9F&line=7D9D7F&point=A8C4AA&area_color=7D9D7F&area=true&hide_border=true&custom_title=Contribution%20Activity&title_color=7D9D7F" alt="Contribution activity" />
-
-<br/><br/>
-
-<img src="./assets/rule.svg" alt="" width="72%" />
-
-<h3>A P P R O A C H</h3>
-
-Learn by building real things.<br/>
-Prefer restraint over complexity.<br/>
-Stay close to the system.
-
 <br/>
 
-<img src="./assets/rule.svg" alt="" width="72%" />
+<sub>Textual · Flutter · Electron&nbsp;&nbsp;—&nbsp;&nbsp;Linux · Arch · Wayland · Hyprland&nbsp;&nbsp;—&nbsp;&nbsp;SQLite · Firebase&nbsp;&nbsp;—&nbsp;&nbsp;Security · Automation · Developer tooling</sub>
+
+<br/><br/>
+
+<img src="./assets/rule.svg" alt="" width="66%" />
 
 <br/>
 
