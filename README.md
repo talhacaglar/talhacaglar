@@ -9,11 +9,9 @@
 <hr>
 
 <h2 align="center">👨💻 Whoami</h2>
-<p align="center">
+<p align="justify">
   <samp>
-  I work in the space between security and systems — Linux tooling, automation,<br>
-  and software that stays clean under real use. I learn by building real things<br>
-  and prefer restraint over complexity.
+  I work in the space between security and systems — Linux tooling, automation, and software that stays clean under real use. I learn by building real things and prefer restraint over complexity.
   </samp>
 </p>
 
@@ -21,26 +19,26 @@
 
 <h2 align="center">🔭 Tools of Trade</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-4D2C12?style=for-the-badge&logo=python&logoColor=9CC9E8" />
-  <img src="https://img.shields.io/badge/JavaScript-4D2C12?style=for-the-badge&logo=javascript&logoColor=9CC9E8" />
-  <img src="https://img.shields.io/badge/Java-4D2C12?style=for-the-badge&logo=openjdk&logoColor=9CC9E8" />
-  <img src="https://img.shields.io/badge/Bash-4D2C12?style=for-the-badge&logo=gnubash&logoColor=9CC9E8" />
-  <img src="https://img.shields.io/badge/F%23-4D2C12?style=for-the-badge&logo=fsharp&logoColor=9CC9E8" />
-  <img src="https://img.shields.io/badge/CSS-4D2C12?style=for-the-badge&logo=css3&logoColor=9CC9E8" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/F%23-378BBA?style=for-the-badge&logo=fsharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-4D2C12?style=for-the-badge&logo=dart&logoColor=9CC9E8" />
-  <img src="https://img.shields.io/badge/Flutter-4D2C12?style=for-the-badge&logo=flutter&logoColor=9CC9E8" />
-  <img src="https://img.shields.io/badge/Electron-4D2C12?style=for-the-badge&logo=electron&logoColor=9CC9E8" />
-  <img src="https://img.shields.io/badge/Firebase-4D2C12?style=for-the-badge&logo=firebase&logoColor=9CC9E8" />
-  <img src="https://img.shields.io/badge/SQLite-4D2C12?style=for-the-badge&logo=sqlite&logoColor=9CC9E8" />
-  <img src="https://img.shields.io/badge/Git-4D2C12?style=for-the-badge&logo=git&logoColor=9CC9E8" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-4D2C12?style=for-the-badge&logo=linux&logoColor=9CC9E8" />
-  <img src="https://img.shields.io/badge/Arch_Linux-4D2C12?style=for-the-badge&logo=arch-linux&logoColor=9CC9E8" />
-  <img src="https://img.shields.io/badge/Wayland-4D2C12?style=for-the-badge&logo=wayland&logoColor=9CC9E8" />
-  <img src="https://img.shields.io/badge/Hyprland-4D2C12?style=for-the-badge&logo=hyprland&logoColor=9CC9E8" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wayland-FFBC00?style=for-the-badge&logo=wayland&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black" />
 </p>
 
 <hr>
@@ -58,7 +56,7 @@
 
 <h2 align="center">📫 Reach me on</h2>
 <p align="center">
-  <a target="_blank" href="https://github.com/talhacaglar"><img src="https://img.shields.io/badge/GitHub-4D2C12?style=for-the-badge&logo=github&logoColor=9CC9E8" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/talhacaglar1/"><img src="https://img.shields.io/badge/LinkedIn-4D2C12?style=for-the-badge&logo=linkedin&logoColor=9CC9E8" /></a>
-  <a target="_blank" href="https://t.me/Cgllar"><img src="https://img.shields.io/badge/Telegram-4D2C12?style=for-the-badge&logo=telegram&logoColor=9CC9E8" /></a>
+  <a target="_blank" href="https://github.com/talhacaglar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/talhacaglar1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank" href="https://t.me/Cgllar"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
