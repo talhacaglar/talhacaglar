@@ -18,9 +18,10 @@ BLURBS = {
     "Clar-Focus": "Terminal-native productivity tooling\nfor Linux.",
 }
 
-BLUE = "#A6AFCC"
-BLUE_SOFT = "#7C859E"
-BROWN = "#B08D6A"
+BLUE = "#9CC9E8"
+BLUE_SOFT = "#6FA8CE"
+BROWN = "#4D2C12"
+BROWN_LIT = "#8A5A32"
 INK = "#EAEBF0"
 MUTED = "#9A9EB0"
 FAINT = "#5E6270"
@@ -113,7 +114,7 @@ def work_card(by_name):
         y = 6 + (i // 2) * gap_y
         stars = repo.get("stargazers_count", 0)
         lang = repo.get("language") or "—"
-        dot = LANG_COLORS.get(lang, BROWN)
+        dot = LANG_COLORS.get(lang, BROWN_LIT)
         blurb = BLURBS.get(name, "")
 
         lines = "".join(
@@ -123,7 +124,7 @@ def work_card(by_name):
 
         out.append(f'''  <g>
     <rect x="{x}" y="{y}" width="{cw}" height="{ch}" rx="4" fill="{CARD}" stroke="{LINE}"/>
-    <rect x="{x}" y="{y}" width="3" height="{ch}" rx="1.5" fill="{BROWN}" fill-opacity="0.7"/>
+    <rect x="{x}" y="{y}" width="3" height="{ch}" rx="1.5" fill="{BROWN}" fill-opacity="1"/>
     <text x="{x + 22}" y="{y + 38}" font-family="{SF}" font-weight="700" font-size="19" letter-spacing="0.4" fill="{BLUE}">{esc(name)}</text>
     <text x="{x + 22}" y="{y + 68}" font-family="{SF_TEXT}" font-weight="500" font-size="13" fill="{MUTED}">{lines}</text>
     <circle cx="{x + 25}" cy="{y + ch - 22}" r="4.5" fill="{dot}"/>
@@ -169,7 +170,7 @@ def record_card(user, own, stars, lang_bytes):
     for i, (lang, size) in enumerate(top):
         frac = size / shown
         seg = bw * frac
-        color = LANG_COLORS.get(lang, BROWN)
+        color = LANG_COLORS.get(lang, BROWN_LIT)
         r_left = "4" if i == 0 else "0"
         bar.append(
             f'  <rect x="{cursor:.1f}" y="146" width="{seg:.1f}" height="9" fill="{color}"/>'
@@ -187,7 +188,7 @@ def record_card(user, own, stars, lang_bytes):
 
     return f'''<svg width="{W}" height="{H}" viewBox="0 0 {W} {H}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub record">
   <rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="4" fill="{CARD}" stroke="{LINE}"/>
-  <rect x="0" y="0" width="{W}" height="2" rx="1" fill="{BROWN}" fill-opacity="0.6"/>
+  <rect x="0" y="0" width="{W}" height="2" rx="1" fill="{BROWN}" fill-opacity="1"/>
 {chr(10).join(out)}
   <text x="{bx}" y="136" font-family="{SF_TEXT}" font-weight="600" font-size="10" letter-spacing="2.4" fill="{FAINT}">LANGUAGE MIX &#183; WEIGHTED BY REPOSITORY</text>
   <rect x="{bx}" y="146" width="{bw}" height="9" rx="4" fill="#16161A"/>
