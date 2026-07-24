@@ -2,10 +2,6 @@
   <img src="./assets/banner.gif" alt="Talha Çağlar" width="900" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=talhacaglar&label=Profile%20views&color=9CC9E8&style=flat" alt="profile views" />
-</p>
-
 <hr>
 
 <h2 align="center">👨💻 Whoami</h2>
