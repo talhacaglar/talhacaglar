@@ -19,7 +19,7 @@
   </defs>
   <rect width="1280" height="300" fill="url(#field)"/>
   <rect x="0" y="0" width="1280" height="2" fill="url(#rule2)"/>
-  <text x="640" y="150" text-anchor="middle" font-family="'Optima','Palatino Linotype','Iowan Old Style',Georgia,serif" font-size="58" letter-spacing="4" fill="#EAEBF0">Talha Çağlar</text>
+  <text x="640" y="150" text-anchor="middle" font-family="'SF Pro Display','SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="58" letter-spacing="2" fill="#EAEBF0">Talha Çağlar</text>
   <rect x="440" y="182" width="400" height="1" fill="url(#rule)"/>
-  <text x="640" y="214" text-anchor="middle" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="15" letter-spacing="3.5" fill="#9A9EB0">SECURITY · LINUX SYSTEMS · DEVELOPER TOOLING</text>
+  <text x="640" y="214" text-anchor="middle" font-family="'SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="15" letter-spacing="3.5" fill="#9A9EB0">SECURITY · LINUX SYSTEMS · DEVELOPER TOOLING</text>
 </svg>

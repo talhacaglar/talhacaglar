@@ -2,25 +2,25 @@
   <rect x="0.5" y="0.5" width="899" height="249" rx="4" fill="#14151A" stroke="#2A2C33"/>
   <rect x="0" y="0" width="900" height="2" rx="1" fill="#B08D6A" fill-opacity="0.6"/>
   <g text-anchor="middle">
-    <text x="60" y="74" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="34" fill="#EAEBF0">15</text>
-    <text x="60" y="98" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="10" letter-spacing="2.4" fill="#5E6270">REPOSITORIES</text>
+    <text x="60" y="74" font-family="'SF Pro Display','SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="34" fill="#EAEBF0">15</text>
+    <text x="60" y="98" font-family="'SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="10" letter-spacing="2.4" fill="#5E6270">REPOSITORIES</text>
   </g>
   <rect x="160" y="46" width="1" height="60" fill="#2A2C33"/>
   <g text-anchor="middle">
-    <text x="260" y="74" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="34" fill="#EAEBF0">10</text>
-    <text x="260" y="98" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="10" letter-spacing="2.4" fill="#5E6270">STARS EARNED</text>
+    <text x="260" y="74" font-family="'SF Pro Display','SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="34" fill="#EAEBF0">10</text>
+    <text x="260" y="98" font-family="'SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="10" letter-spacing="2.4" fill="#5E6270">STARS EARNED</text>
   </g>
   <rect x="360" y="46" width="1" height="60" fill="#2A2C33"/>
   <g text-anchor="middle">
-    <text x="460" y="74" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="34" fill="#EAEBF0">5</text>
-    <text x="460" y="98" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="10" letter-spacing="2.4" fill="#5E6270">FOLLOWERS</text>
+    <text x="460" y="74" font-family="'SF Pro Display','SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="34" fill="#EAEBF0">5</text>
+    <text x="460" y="98" font-family="'SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="10" letter-spacing="2.4" fill="#5E6270">FOLLOWERS</text>
   </g>
   <rect x="560" y="46" width="1" height="60" fill="#2A2C33"/>
   <g text-anchor="middle">
-    <text x="660" y="74" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="34" fill="#EAEBF0">18</text>
-    <text x="660" y="98" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="10" letter-spacing="2.4" fill="#5E6270">LANGUAGES</text>
+    <text x="660" y="74" font-family="'SF Pro Display','SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="700" font-size="34" fill="#EAEBF0">18</text>
+    <text x="660" y="98" font-family="'SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="10" letter-spacing="2.4" fill="#5E6270">LANGUAGES</text>
   </g>
-  <text x="60" y="136" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="10" letter-spacing="2.4" fill="#5E6270">LANGUAGE MIX &#183; WEIGHTED BY REPOSITORY</text>
+  <text x="60" y="136" font-family="'SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="600" font-size="10" letter-spacing="2.4" fill="#5E6270">LANGUAGE MIX &#183; WEIGHTED BY REPOSITORY</text>
   <rect x="60" y="146" width="780" height="9" rx="4" fill="#16161A"/>
   <rect x="60.0" y="146" width="347.7" height="9" fill="#3572A5"/>
   <rect x="407.7" y="146" width="157.0" height="9" fill="#89E051"/>
@@ -30,32 +30,32 @@
   <rect x="785.8" y="146" width="54.2" height="9" fill="#222C37"/>
   <g>
     <circle cx="60" cy="186" r="4.5" fill="#3572A5"/>
-    <text x="73" y="190" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#9A9EB0">Python</text>
-    <text x="300" y="190" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#5E6270">40.1%</text>
+    <text x="73" y="190" font-family="'SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="500" font-size="12.5" fill="#9A9EB0">Python</text>
+    <text x="300" y="190" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-weight="500" font-size="12" fill="#5E6270">40.1%</text>
   </g>
   <g>
     <circle cx="330" cy="186" r="4.5" fill="#89E051"/>
-    <text x="343" y="190" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#9A9EB0">Shell</text>
-    <text x="570" y="190" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#5E6270">18.1%</text>
+    <text x="343" y="190" font-family="'SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="500" font-size="12.5" fill="#9A9EB0">Shell</text>
+    <text x="570" y="190" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-weight="500" font-size="12" fill="#5E6270">18.1%</text>
   </g>
   <g>
     <circle cx="600" cy="186" r="4.5" fill="#563D7C"/>
-    <text x="613" y="190" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#9A9EB0">CSS</text>
-    <text x="840" y="190" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#5E6270">10.0%</text>
+    <text x="613" y="190" font-family="'SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="500" font-size="12.5" fill="#9A9EB0">CSS</text>
+    <text x="840" y="190" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-weight="500" font-size="12" fill="#5E6270">10.0%</text>
   </g>
   <g>
     <circle cx="60" cy="212" r="4.5" fill="#B07219"/>
-    <text x="73" y="216" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#9A9EB0">Java</text>
-    <text x="300" y="216" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#5E6270">8.3%</text>
+    <text x="73" y="216" font-family="'SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="500" font-size="12.5" fill="#9A9EB0">Java</text>
+    <text x="300" y="216" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-weight="500" font-size="12" fill="#5E6270">8.3%</text>
   </g>
   <g>
     <circle cx="330" cy="212" r="4.5" fill="#B845FC"/>
-    <text x="343" y="216" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#9A9EB0">F#</text>
-    <text x="570" y="216" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#5E6270">7.1%</text>
+    <text x="343" y="216" font-family="'SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="500" font-size="12.5" fill="#9A9EB0">F#</text>
+    <text x="570" y="216" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-weight="500" font-size="12" fill="#5E6270">7.1%</text>
   </g>
   <g>
     <circle cx="600" cy="212" r="4.5" fill="#222C37"/>
-    <text x="613" y="216" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="#9A9EB0">ShaderLab</text>
-    <text x="840" y="216" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="#5E6270">6.2%</text>
+    <text x="613" y="216" font-family="'SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-weight="500" font-size="12.5" fill="#9A9EB0">ShaderLab</text>
+    <text x="840" y="216" text-anchor="end" font-family="ui-monospace,'SF Mono',Menlo,Consolas,monospace" font-weight="500" font-size="12" fill="#5E6270">6.2%</text>
   </g>
 </svg>

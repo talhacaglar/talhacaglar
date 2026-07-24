@@ -27,6 +27,11 @@ FAINT = "#5E6270"
 CARD = "#14151A"
 LINE = "#2A2C33"
 
+# Apple San Francisco first, graceful fallback everywhere else.
+SF = "'SF Pro Display','SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif"
+SF_TEXT = "'SF Pro Text',-apple-system,BlinkMacSystemFont,ui-sans-serif,'Helvetica Neue',Arial,sans-serif"
+MONO = "ui-monospace,'SF Mono',Menlo,Consolas,monospace"
+
 LANG_COLORS = {
     "Python": "#3572A5",
     "JavaScript": "#F1E05A",
@@ -119,11 +124,11 @@ def work_card(by_name):
         out.append(f'''  <g>
     <rect x="{x}" y="{y}" width="{cw}" height="{ch}" rx="4" fill="{CARD}" stroke="{LINE}"/>
     <rect x="{x}" y="{y}" width="3" height="{ch}" rx="1.5" fill="{BROWN}" fill-opacity="0.7"/>
-    <text x="{x + 22}" y="{y + 38}" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="19" letter-spacing="1.6" fill="{BLUE}">{esc(name)}</text>
-    <text x="{x + 22}" y="{y + 68}" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="13" fill="{MUTED}">{lines}</text>
+    <text x="{x + 22}" y="{y + 38}" font-family="{SF}" font-weight="700" font-size="19" letter-spacing="0.4" fill="{BLUE}">{esc(name)}</text>
+    <text x="{x + 22}" y="{y + 68}" font-family="{SF_TEXT}" font-weight="500" font-size="13" fill="{MUTED}">{lines}</text>
     <circle cx="{x + 25}" cy="{y + ch - 22}" r="4.5" fill="{dot}"/>
-    <text x="{x + 37}" y="{y + ch - 18}" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="12" fill="{FAINT}">{esc(lang)}</text>
-    <text x="{x + cw - 22}" y="{y + ch - 18}" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="{FAINT}">&#9733; {stars}</text>
+    <text x="{x + 37}" y="{y + ch - 18}" font-family="{SF_TEXT}" font-weight="500" font-size="12" fill="{FAINT}">{esc(lang)}</text>
+    <text x="{x + cw - 22}" y="{y + ch - 18}" text-anchor="end" font-family="{MONO}" font-weight="500" font-size="12" fill="{FAINT}">&#9733; {stars}</text>
   </g>''')
 
     return f'''<svg width="{W}" height="{H}" viewBox="0 0 {W} {H}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Selected work">
@@ -148,8 +153,8 @@ def record_card(user, own, stars, lang_bytes):
     for i, (label, value) in enumerate(stats):
         x = 60 + i * 200
         out.append(f'''  <g text-anchor="middle">
-    <text x="{x}" y="{74}" font-family="'Optima','Palatino Linotype',Georgia,serif" font-size="34" fill="{INK}">{value}</text>
-    <text x="{x}" y="{98}" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="10" letter-spacing="2.4" fill="{FAINT}">{label}</text>
+    <text x="{x}" y="{74}" font-family="{SF}" font-weight="700" font-size="34" fill="{INK}">{value}</text>
+    <text x="{x}" y="{98}" font-family="{SF_TEXT}" font-weight="600" font-size="10" letter-spacing="2.4" fill="{FAINT}">{label}</text>
   </g>''')
         if i < len(stats) - 1:
             out.append(
@@ -176,15 +181,15 @@ def record_card(user, own, stars, lang_bytes):
         pct = 100 * size / total
         legend.append(f'''  <g>
     <circle cx="{lx}" cy="{ly - 4}" r="4.5" fill="{color}"/>
-    <text x="{lx + 13}" y="{ly}" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="12.5" fill="{MUTED}">{esc(lang)}</text>
-    <text x="{lx + 240}" y="{ly}" text-anchor="end" font-family="ui-monospace,Menlo,monospace" font-size="12" fill="{FAINT}">{pct:.1f}%</text>
+    <text x="{lx + 13}" y="{ly}" font-family="{SF_TEXT}" font-weight="500" font-size="12.5" fill="{MUTED}">{esc(lang)}</text>
+    <text x="{lx + 240}" y="{ly}" text-anchor="end" font-family="{MONO}" font-weight="500" font-size="12" fill="{FAINT}">{pct:.1f}%</text>
   </g>''')
 
     return f'''<svg width="{W}" height="{H}" viewBox="0 0 {W} {H}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub record">
   <rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="4" fill="{CARD}" stroke="{LINE}"/>
   <rect x="0" y="0" width="{W}" height="2" rx="1" fill="{BROWN}" fill-opacity="0.6"/>
 {chr(10).join(out)}
-  <text x="{bx}" y="136" font-family="ui-sans-serif,'Helvetica Neue',Arial,sans-serif" font-size="10" letter-spacing="2.4" fill="{FAINT}">LANGUAGE MIX &#183; WEIGHTED BY REPOSITORY</text>
+  <text x="{bx}" y="136" font-family="{SF_TEXT}" font-weight="600" font-size="10" letter-spacing="2.4" fill="{FAINT}">LANGUAGE MIX &#183; WEIGHTED BY REPOSITORY</text>
   <rect x="{bx}" y="146" width="{bw}" height="9" rx="4" fill="#16161A"/>
 {chr(10).join(bar)}
 {chr(10).join(legend)}
