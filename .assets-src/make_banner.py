@@ -19,13 +19,13 @@ FONT_WEIGHT = "ExtraBold"
 
 LINES = [
     ("Hi, I'm Talha Caglar", 40, 78),
-    ("Cybersecurity * Linux & Automation", 26, 138),
+    ("DevSecOps * Linux & Automation", 26, 138),
     ("Python  JavaScript  Java  Bash  F#  CSS", 24, 196),
 ]
 # gorsel dogruluk icin ozel karakterler
 LINES = [
     ("Hi, I'm Talha \u00c7a\u011flar", 40, 78),
-    ("Cybersecurity \u00b7 Linux & Automation", 26, 138),
+    ("DevSecOps \u00b7 Linux & Automation", 26, 138),
     ("Python \u00b7 JavaScript \u00b7 Java \u00b7 Bash \u00b7 F# \u00b7 CSS", 24, 196),
 ]
 
