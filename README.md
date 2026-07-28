@@ -7,7 +7,7 @@
 <h2 align="center">👨💻 Whoami</h2>
 <p align="justify">
   <samp>
-  I work in the space between security and systems — Linux tooling, automation, and software that stays clean under real use. I learn by building real things and prefer restraint over complexity.
+  Developing terminal-based practical tools, learning by building and breaking things. I prefer writing readable, clean, and practical code over unnecessary complexity.
   </samp>
 </p>
 
