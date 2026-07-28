@@ -45,7 +45,7 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=talhacaglar&layout=compact&hide_border=true&langs_count=8&bg_color=4D2C12&title_color=9CC9E8&text_color=EAF2F8" alt="top langs" height="165" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=talhacaglar&hide_border=true&background=4D2C12&stroke=B48A6A&ring=9CC9E8&fire=9CC9E8&currStreakLabel=9CC9E8&sideLabels=9CC9E8&currStreakNum=EAF2F8&sideNums=EAF2F8&dates=B48A6A" alt="streak" />
+  <img src="https://streak-stats.vercel.app/?user=talhacaglar&hide_border=true&background=4D2C12&stroke=B48A6A&ring=9CC9E8&fire=9CC9E8&currStreakLabel=9CC9E8&sideLabels=9CC9E8&currStreakNum=EAF2F8&sideNums=EAF2F8&dates=B48A6A" alt="streak" />
 </p>
 
 <hr>
