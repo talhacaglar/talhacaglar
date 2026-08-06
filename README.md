@@ -41,11 +41,11 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=talhacaglar&show_icons=true&hide_border=true&count_private=true&bg_color=4D2C12&title_color=9CC9E8&text_color=EAF2F8&icon_color=9CC9E8" alt="stats" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=talhacaglar&layout=compact&hide_border=true&langs_count=8&bg_color=4D2C12&title_color=9CC9E8&text_color=EAF2F8" alt="top langs" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=talhacaglar&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF" alt="stats" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=talhacaglar&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC" alt="top langs" height="165" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=talhacaglar&hide_border=true&background=4D2C12&stroke=B48A6A&ring=9CC9E8&fire=9CC9E8&currStreakLabel=9CC9E8&sideLabels=9CC9E8&currStreakNum=EAF2F8&sideNums=EAF2F8&dates=B48A6A" alt="streak" />
+  <img src="https://streak-stats.vercel.app/?user=talhacaglar&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=CCCCCC&sideNums=CCCCCC&dates=999999" alt="streak" />
 </p>
 
 <hr>
