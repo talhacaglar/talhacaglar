@@ -11,21 +11,21 @@ import html
 
 # --- Ayarlar ---
 W, H = 900, 260
-BG = "#4D2C12"          # koyu kahve arka plan
-FG = "#9CC9E8"          # acik mavi yazi
-DIM = "#B48A6A"         # sonmus/ipucu tonu (arka plandan bir tik acik)
+BG = "#000000"          # pure black arka plan
+FG = "#FFFFFF"          # beyaz yazi
+DIM = "#333333"         # koyu gri / sonmus ton
 FONT = "JetBrainsMono Nerd Font"   # kalin monospace
 FONT_WEIGHT = "ExtraBold"
 
 LINES = [
     ("Hi, I'm Talha Caglar", 40, 78),
-    ("DevSecOps * Linux & Automation", 26, 138),
+    ("Cyber Security * Linux & Automation", 26, 138),
     ("Python  JavaScript  Java  Bash  F#  CSS", 24, 196),
 ]
 # gorsel dogruluk icin ozel karakterler
 LINES = [
     ("Hi, I'm Talha \u00c7a\u011flar", 40, 78),
-    ("DevSecOps \u00b7 Linux & Automation", 26, 138),
+    ("Cyber Security \u00b7 Linux & Automation", 26, 138),
     ("Python \u00b7 JavaScript \u00b7 Java \u00b7 Bash \u00b7 F# \u00b7 CSS", 24, 196),
 ]
 
