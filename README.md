@@ -1,31 +1,45 @@
 <p align="center">
-  <img src="./assets/banner.gif" alt="Talha Çağlar" width="900" />
+  <img src="./assets/banner.png" alt="Talha Çağlar and Rölanti" width="100%" />
 </p>
 
-<hr>
-
-<h2 align="center">👨💻 Whoami</h2>
-<p align="justify">
-  <samp>
-  Developing terminal-based practical tools, learning by building and breaking things. I prefer writing readable, clean, and practical code over unnecessary complexity.
-  </samp>
-</p>
-
-
-<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=talhacaglar&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF" alt="stats" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=talhacaglar&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=FFFFFF&text_color=CCCCCC" alt="top langs" height="165" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.vercel.app/?user=talhacaglar&hide_border=true&background=000000&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=CCCCCC&sideNums=CCCCCC&dates=999999" alt="streak" />
+  <a href="https://talhacaglar.github.io/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/talhacaglar1/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:talhacaglarr@proton.me">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/Cgllar">Telegram</a>
 </p>
 
-<hr>
+## About
 
-<h2 align="center">📫 Reach me on</h2>
-<p align="center">
-  <a target="_blank" href="mailto:talhacaglarr@proton.me"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
-  <a target="_blank" href="https://www.linkedin.com/in/talhacaglar1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a target="_blank" href="https://t.me/Cgllar"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
+I build practical software around **Linux, automation and security**. Most of my work starts with
+a real problem and ends as a focused tool: terminal-first when it makes sense, graphical when it
+helps, and always kept as simple as the job allows.
+
+I am currently exploring mobile systems and **AI/LLM security** through hands-on, authorized lab
+work.
+
+`Linux` · `Python` · `TypeScript` · `Shell` · `Electron` · `SQLite`
+
+## Selected work
+
+| Project | What it does | Built with |
+| :-- | :-- | :-- |
+| **[Clar Focus](https://github.com/talhacaglar/Clar-Focus)** | Terminal-first productivity suite for Arch Linux, Hyprland and Omarchy. | Python · Textual · SQLite |
+| **[PrintHub](https://github.com/talhacaglar/PrintHub)** | Network printer, toner, stock and Active Directory management. | Electron · JavaScript |
+| **[Lexis](https://github.com/talhacaglar/Lexis)** | Personalized, AI-assisted dictionary application. | Python |
+| **[TUI Anlık Çevirmen](https://github.com/talhacaglar/TUI-Anlik-Cevirmen)** | Instant Turkish translation with DeepL in a keyboard-first terminal interface. | Python |
+
+## Principles
+
+- Useful before impressive.
+- Readable before clever.
+- Small surface area, clear behavior.
+- Learn by building, testing and taking systems apart.
+
+## Contact
+
+The shortest route is **[email](mailto:talhacaglarr@proton.me)**. You can also find my work and
+longer project notes on **[talhacaglar.github.io](https://talhacaglar.github.io/)**.
