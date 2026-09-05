@@ -1,45 +1,34 @@
-<p align="center">
-  <img src="./assets/banner.png" alt="Talha Çağlar and Rölanti" width="100%" />
-</p>
+<img align="right" src="./assets/mascot-dark.png" alt="My mascot: sunglasses, a leather jacket and a little hardware tinkering." width="180" />
 
-<p align="center">
-  <a href="https://talhacaglar.github.io/">Portfolio</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/talhacaglar1/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:talhacaglarr@proton.me">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://t.me/Cgllar">Telegram</a>
-</p>
+# Talha Çağlar
 
-## About
+Linux, automation & security.
 
-I build practical software around **Linux, automation and security**. Most of my work starts with
-a real problem and ends as a focused tool: terminal-first when it makes sense, graphical when it
-helps, and always kept as simple as the job allows.
+I build tools for the way I use my computer: terminal apps, desktop utilities,
+and small automations that solve everyday problems.
 
-I am currently exploring mobile systems and **AI/LLM security** through hands-on, authorized lab
-work.
+I like understanding how systems work — and what happens when you take them apart.
+Currently exploring mobile systems and AI/LLM security through authorized lab work.
 
-`Linux` · `Python` · `TypeScript` · `Shell` · `Electron` · `SQLite`
+[Portfolio](https://talhacaglar.github.io/) · [LinkedIn](https://www.linkedin.com/in/talhacaglar1/) · [Email](mailto:talhacaglarr@proton.me)
 
-## Selected work
+<br clear="all" />
 
-| Project | What it does | Built with |
-| :-- | :-- | :-- |
-| **[Clar Focus](https://github.com/talhacaglar/Clar-Focus)** | Terminal-first productivity suite for Arch Linux, Hyprland and Omarchy. | Python · Textual · SQLite |
-| **[PrintHub](https://github.com/talhacaglar/PrintHub)** | Network printer, toner, stock and Active Directory management. | Electron · JavaScript |
-| **[Lexis](https://github.com/talhacaglar/Lexis)** | Personalized, AI-assisted dictionary application. | Python |
-| **[TUI Anlık Çevirmen](https://github.com/talhacaglar/TUI-Anlik-Cevirmen)** | Instant Turkish translation with DeepL in a keyboard-first terminal interface. | Python |
+---
 
-## Principles
+### Things I've built
 
-- Useful before impressive.
-- Readable before clever.
-- Small surface area, clear behavior.
-- Learn by building, testing and taking systems apart.
+- [Clar Focus](https://github.com/talhacaglar/Clar-Focus) — Tasks, focus sessions and a Pomodoro timer for Arch Linux and Hyprland. Python, Textual, SQLite.
+- [archsweep](https://github.com/talhacaglar/archsweep) — An opt-in terminal cleaner for Arch-based systems, written in Bash.
+- [PrintHub](https://github.com/talhacaglar/PrintHub) — Network printer, toner, stock and Active Directory management. Electron, JavaScript.
+- [TUI Anlık Çevirmen](https://github.com/talhacaglar/TUI-Anlik-Cevirmen) — Instant Turkish translation with DeepL, straight from the terminal. Python.
+- [Lexis](https://github.com/talhacaglar/Lexis) — A personalized, AI-assisted dictionary application. Python.
 
-## Contact
+### Around the workbench
 
-The shortest route is **[email](mailto:talhacaglarr@proton.me)**. You can also find my work and
-longer project notes on **[talhacaglar.github.io](https://talhacaglar.github.io/)**.
+`Linux` · `Python` · `Shell` · `TypeScript` · `Electron` · `SQLite`
+
+My daily environment is Arch Linux with Hyprland. Away from the terminal,
+I'm usually interested in cars, racing games, or another piece of technology to figure out.
+
+[Dotfiles](https://github.com/talhacaglar/dotfiles) · [More projects](https://github.com/talhacaglar?tab=repositories) · [Telegram](https://t.me/Cgllar)
