@@ -40,7 +40,7 @@ Outside the terminal: cars, racing games, and a long-standing curiosity about te
 <sub>ELECTRON / JAVASCRIPT</sub>
 </td>
 <td width="50%" valign="top">
-<h3><a href="https://github.com/talhacaglar/TUI-Anlik-Cevirmen">TUI Anlık Çevirmen</a></h3>
+<h3><a href="https://github.com/talhacaglar/tui-translator">DTR · Instant Translator</a></h3>
 <p>Instant Turkish translation with DeepL, without leaving the terminal.</p>
 <sub>PYTHON / DEEPL</sub>
 </td>
