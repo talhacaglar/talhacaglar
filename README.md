@@ -9,6 +9,10 @@
   <a href="https://t.me/Cgllar">Telegram</a>
 </p>
 
+<p align="center">
+  Discord · <code>0ff0ff0ffoff</code>
+</p>
+
 ### Under the hood
 
 I build small tools around **Linux, automation and everyday problems** — from terminal apps
