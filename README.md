@@ -1,10 +1,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
-  <img src="./assets/banner-dark.svg" alt="Talha Çağlar — Linux, automation and security." width="100%" />
+  <img src="./assets/banner-dark.svg" alt="Talha Çağlar — Linux, AI and security." width="100%" />
 </picture>
 
-I build small tools for **Linux, automation and everyday problems**, from terminal apps
+I build small tools for **Linux, AI and everyday problems**, from terminal apps
 to desktop utilities. I like taking systems apart, learning how they behave, and bending
 them to the way I work.
 
