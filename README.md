@@ -13,11 +13,11 @@ I'd rather figure out how a thing works than just use it.
 
 ### `~/projects`
 
-- **[Clar Focus](https://github.com/talhacaglar/Clar-Focus)** — Tasks, Pomodoro and focus controls for Arch + Hyprland. <sub>`python` `textual` `sqlite`</sub>
-- **[archsweep](https://github.com/talhacaglar/archsweep)** — An opt-in terminal cleaner for Arch-based systems. Small and direct. <sub>`bash`</sub>
-- **[PrintHub](https://github.com/talhacaglar/PrintHub)** — Network printers, toner stock and Active Directory in one desktop app. <sub>`electron` `javascript`</sub>
-- **[DTR](https://github.com/talhacaglar/tui-translator)** — Instant Turkish translation with DeepL, without leaving the terminal. <sub>`python` `deepl`</sub>
-- **[Lexis](https://github.com/talhacaglar/Lexis)** — A personal, AI-assisted dictionary. <sub>`in progress`</sub>
+- **[Clar Focus](https://github.com/talhacaglar/Clar-Focus)** — Tasks, Pomodoro and focus controls for Arch + Hyprland.
+- **[archsweep](https://github.com/talhacaglar/archsweep)** — An opt-in terminal cleaner for Arch-based systems. Small and direct.
+- **[PrintHub](https://github.com/talhacaglar/PrintHub)** — Network printers, toner stock and Active Directory in one desktop app.
+- **[DTR](https://github.com/talhacaglar/tui-translator)** — Instant Turkish translation with DeepL, without leaving the terminal.
+- **[Lexis](https://github.com/talhacaglar/Lexis)** — A personal, AI-assisted dictionary.
 
 <sub>[all repositories →](https://github.com/talhacaglar?tab=repositories)</sub>
 
@@ -27,4 +27,4 @@ I'd rather figure out how a thing works than just use it.
 
 ### `~/contact`
 
-[portfolio](https://talhacaglar.github.io/) · [linkedin](https://www.linkedin.com/in/talhacaglar1/) · [email](mailto:talhacaglarr@proton.me) · [telegram](https://t.me/Cgllar) · discord <code>0ff0ff0ffoff</code>
+[portfolio](https://talhacaglar.github.io/) · [email](mailto:talhacaglarr@proton.me) · discord <code>0ff0ff0ffoff</code>
