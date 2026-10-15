@@ -8,8 +8,8 @@ Computer engineering student. I've been curious about technology since I was a k
 and that never wore off. I love researching and learning new things, and I learn best
 by building: small projects of my own, made to scratch my own itches.
 
-I use AI a lot, both as a tool in my workflow and as something I like to understand better.
-I'd rather figure out how a thing works than just use it.
+I build my projects with AI and use it a lot, every day: planning, writing code, researching
+and picking up new things faster. I also want to know how it works under the hood, not just use it.
 
 ### `~/projects`
 
