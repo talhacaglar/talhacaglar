@@ -1,15 +1,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg" />
-  <img src="./assets/banner-dark.svg" alt="Talha Çağlar — Linux, AI and security." width="100%" />
+  <img src="./assets/banner-dark.svg" alt="Talha Çağlar — Computer engineering student." width="100%" />
 </picture>
 
-I build small tools for **Linux, AI and everyday problems**, from terminal apps
-to desktop utilities. I like taking systems apart, learning how they behave, and bending
-them to the way I work.
+Computer engineering student. I've been curious about technology since I was a kid,
+and that never wore off. I love researching and learning new things, and I learn best
+by building: small projects of my own, made to scratch my own itches.
 
-Right now I'm exploring **mobile systems and AI/LLM security** through authorized lab work.
-Away from the keyboard: cars, racing games, and a curiosity about how things work that never really switched off.
+I use AI a lot, both as a tool in my workflow and as something I like to understand better.
+I'd rather figure out how a thing works than just use it.
 
 ### `~/projects`
 
